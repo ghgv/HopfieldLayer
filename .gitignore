@@ -21,4 +21,5 @@ dist/
 *.swp
 
 # Jupyter
+.ipynb_checkpoints
 Hopfield_layer/.ipynb_checkpoints/
